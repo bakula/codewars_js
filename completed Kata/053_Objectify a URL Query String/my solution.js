@@ -1,4 +1,4 @@
-function convertQueryToMap(query) {
+ function convertQueryToMap(query) {
   if(query==="")return {};
 
   var ret = {};
